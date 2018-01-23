@@ -26,7 +26,7 @@ python3 -m pip install --upgrade pip
 python3 -m pip install jupyter
 ```
 
-After installing Jupyter, you can open my notebook (A1.ipynb) with the following command.
+After installing Jupyter, cd into the A1 project folder, and open the notebook (A1.ipynb) with the following command.
 
 ```
 jupyter notebook A1.ipynb
@@ -41,13 +41,13 @@ If you elect to run this program from the command line, use the following comman
 python3 A1_script.py
 ```
 
-Regardless of the method used above, make sure to comment/uncomment out certain lines to avoid rate limits on Twitter's API.
+**Regardless of the method used above, make sure to comment/uncomment out certain lines to avoid rate limits on Twitter's API.**
 
 ### Task 1
 
 Task - Given a list of user IDs, please write a data crawler to collect the users' profile information.
 
-Make sure the following line is not commented out.
+Make sure the following line (cell 6) is executable/not commented out.
 
 ```
 [write_profile_information(user) for user in api.lookup_users(user_ids)]
@@ -59,7 +59,7 @@ I saved the resulting file containing the profile information in profile_informa
 
 Task - Given a list of user IDs, please write a data crawler to collect the user social network information (i.e., the lists of screen names of the user's friends and followers)
 
-Make sure the following line is not commented out.
+Make sure the following line (cell 8) is executable/not commented out.
 
 ```
 [write_social_information(user) for user in api.lookup_users(user_ids)]
@@ -71,8 +71,7 @@ I saved the resulting file containing the profile information in social_informat
 
 Task - Please write a data crawler to collect tweets that contain one of the following two keywords: [Indiana, weather]
 
-NOTE: For Task 3.1, the stream for this subsection requires that the other stream be commented out.
-See below. 
+NOTE: For Task 3.1, the stream for this subsection requires that the other stream be commented out; see below. 
 
 ```
 # (1) collect tweets that contain one of the following two keywords: [Indiana, weather] 
@@ -89,8 +88,7 @@ I saved the resulting file containing the tweets in tweets_keywords.txt (note th
 
 Task - Please write a data crawler to collect tweets that originate from the geographic region around South Bend.
 
-NOTE: As above, the stream for this subsection requires that the other stream be commented out.
-See below.
+NOTE: As above, the stream for this subsection requires that the other stream be commented out; see below.
 
 ```
 # (1) collect tweets that contain one of the following two keywords: [Indiana, weather] 

@@ -5,10 +5,10 @@
 
 
 # keys/tokens/secrets
-consumer_key = '6FTGkkHr6qIv6drlW531oLWZH'
-consumer_secret = '6e3lSCAwy2DZQawH6N7ttTyiHbFUMuJs9GYHTHfKd2mydS2xZB'
-access_token = '1959972582-DfvT6r2zpKLs4BSRd4KSYfxUycGvpinzXMsGcRm'
-access_token_secret = 'pCzDlv6AhzK5L8cTUMIVAmRjdVxkOWYzyE1qPUjn2Xch6'
+consumer_key = 'xxx'
+consumer_secret = 'xxx'
+access_token = 'xxx'
+access_token_secret = 'xxx'
 
 
 # In[2]:
