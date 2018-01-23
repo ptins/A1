@@ -1,0 +1,15 @@
+Friend List (nd_news):
+['CushwaCenter', 'onlinenotredame', 'ND_ISC', 'SafetyND', 'ND_AMST', 'NDCampusDining', 'LEOatND', 'MedievalND', 'NDBasilica', 'NDCalifornia', 'ND_EthicsCenter', 'NDArchives', 'NDLicensing', 'ND_Turbo', 'IndianaCTSI', 'ND_Grad', 'NDBios', 'NDCERV', 'NDLEEF', 'ND_ECI']
+Follower List (nd_news):
+['mditt', 'ChuckSm0807', 'BradyBbuhman', 'Constan96527136', 'lookatthelogo', 'RyanBeebe10', 'NorisysMumbai', 'Hey08852234', 'jmund33', 'NDFirstTimeFans', 'MonicaSmithBen2', 'mickcallahan', 'iCloudu06171626', 'allie_champlin', 'BobWebe52579938', 'Xavier_w8', 'Frisbeeshots_92', 'kevincandela', 'alyssa_kadar', 'ashton_maurer']
+-----
+Friend List (SportsCenter):
+['RandyMoss', 'ittfworld', 'wojespn', 'TwitterVideo', 'shonrp2', 'jemelehill', 'Jarrius', 'marcuspaige5', 'dougglanville', 'TG3II', 'OfficialAJHawk', 'thebiglead', 'TheVFoundation', 'UMichFootball', 'arturodraws', 'k_obrand', 'HuskerFBNation', 'ZachLowe_NBA', 'chancetherapper', 'Revis24']
+Follower List (SportsCenter):
+['BirdLennox', 'Markee61137640', 'NimaTahvildari', 'Elvis67228192', 'SlabMatthews', 'William40741677', 'DaddyHardCock1', 'PonyBoyB10', 'TimmyMac11', 'boy_mahde', 'Abdlkennedy', 'hannah47745637', 'fiti123', 'MoHangal', 'Leo05112001', 'NWAautosales', 'AndreiDanica', 'JasonSpezza7', 'KalmanFelix', 'Patrici14502258']
+-----
+Friend List (gnome):
+['Puri_sm', 'FlatpakApps', 'matthias_clasen', 'LibreLearnLab', 'LASGNOME', 'lfnw', 'Yulwitter', 'yayadelia', 'gsoc', 'raphaelhertzog', 'zacchiro', 'fsfe', 'johns_FSF', 'coala_io', 'cnasoares', 'mlundblad', 'LSchuirmann', '1nuritzi', 'HaloSiska', 'avidbrit']
+Follower List (gnome):
+['Sandhyalakshmi7', 'eli_gnu', '10XNewsletter', 'szm1k1', 'DiQinglian', 'Dehn7deApan', 'boehm_florian', 'kmfcit', 'jlelse', 'farouk_basti', 'fexrc', 'jangidrahul165', 'TomHendra', 'hybridev1', 'a1in_', 'amire21df', 'lordvalor', 'JerrodBireley', 'ramirez_angelo', 'pinkepank']
+-----
