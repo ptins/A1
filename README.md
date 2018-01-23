@@ -41,7 +41,9 @@ If you elect to run this program from the command line, use the following comman
 python3 A1_script.py
 ```
 
-**Regardless of the method used above, there are two things that need to be done to run this program. (1) Insert your consumer API credentials, access credentials if you cloned from GitHub. (2) Make sure to comment/uncomment out certain lines to avoid rate limits on Twitter's API.**
+**Regardless of the method used above, there are two things that need to be done to run this program. 
+1. Insert your consumer API credentials, access credentials if you cloned from GitHub. 
+2. Make sure to comment/uncomment out certain lines to avoid rate limits on Twitter's API.**
 
 ### Task 1
 
