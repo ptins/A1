@@ -2,6 +2,8 @@
 
 This is the first assignment for my Social Sensing/Cyber-Physical Systems Class.
 
+See this README in a nicer format on GitHub at https://github.com/ptins/A1/blob/master/README.md.
+
 ## Getting Started
 
 Download everything from either (1) my dropbox (folder A1) or (2) clone this repository on GitHub.
