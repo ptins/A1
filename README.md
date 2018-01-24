@@ -42,8 +42,8 @@ python3 A1_script.py
 ```
 
 **Regardless of the method used above, there are two things that need to be done to run this program.** 
-1. Insert your consumer API credentials, access credentials if you cloned from GitHub. 
-2. Make sure to comment/uncomment out certain lines to avoid rate limits on Twitter's API.
+1. Insert your consumer API credentials (consumer key/secret) and access credentials (access token/secret). 
+2. Comment/uncomment out certain lines to actually run the different tasks; they are initially commented out to avoid rate limits on Twitter's API.
 
 ### Task 1
 
@@ -73,7 +73,7 @@ I saved the resulting file containing the profile information in social_informat
 
 Task - Please write a data crawler to collect tweets that contain one of the following two keywords: [Indiana, weather]
 
-NOTE: For Task 3.1, the stream for this subsection requires that the other stream be commented out; see below. 
+NOTE: For Task 3.1, the stream for this subsection requires that the other stream (latlong) be commented out; see below. 
 
 ```
 # (1) collect tweets that contain one of the following two keywords: [Indiana, weather] 
@@ -90,7 +90,7 @@ I saved the resulting file containing the tweets in tweets_keywords.txt (note th
 
 Task - Please write a data crawler to collect tweets that originate from the geographic region around South Bend.
 
-NOTE: As above, the stream for this subsection requires that the other stream be commented out; see below.
+NOTE: For Taks 3.2, the stream for this subsection requires that the other stream (keywords) be commented out; see below.
 
 ```
 # (1) collect tweets that contain one of the following two keywords: [Indiana, weather] 
